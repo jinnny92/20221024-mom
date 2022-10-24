@@ -1,0 +1,14 @@
+[
+  {
+    "identifier": 1,
+    "first_name": "Aaron",
+    "last_name": "Ramsdale",
+    "Nationality": "England",
+    "Appearances": 8,
+    "Clean sheets": 3,
+    "team": "Arsenal",
+    "position": "Goalkeeper",
+    "image": "AaronRamsdale.png",
+    "heartCheck": false
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "identifier": 12,
+    "first_name": "Thomas",
+    "last_name": "Partey",
+    "Nationality": "Ghana",
+    "Appearances": 5,
+    "Goals": 1,
+    "Assists": 0,
+    "team": "Arsenal",
+    "position": "Midfielder",
+    "image": "ThomasPartey.png"
+  }
+]

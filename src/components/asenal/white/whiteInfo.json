@@ -1,0 +1,14 @@
+[
+  {
+    "identifier": 5,
+    "first_name": "Ben",
+    "last_name": "White",
+    "Nationality": "England",
+    "Appearances": 8,
+    "Clean sheets": 1,
+    "Goals": 0,
+    "team": "Arsenal",
+    "position": "Defender",
+    "image": "BenWhite.png"
+  }
+]

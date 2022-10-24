@@ -1,0 +1,14 @@
+[
+  {
+    "identifier": 14,
+    "first_name": "Martin",
+    "last_name": "Ødegaard",
+    "Nationality": "Norway",
+    "Appearances": 7,
+    "Goals": 3,
+    "Assists": 0,
+    "team": "Arsenal",
+    "position": "Midfielder",
+    "image": "MartinØdegaard.png"
+  }
+]

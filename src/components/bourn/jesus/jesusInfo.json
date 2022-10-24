@@ -1,0 +1,14 @@
+[
+  {
+    "identifier": 28,
+    "first_name": "Gabriel",
+    "last_name": "Jesus",
+    "Nationality": "Brazil",
+    "Appearances": 8,
+    "Goals": 5,
+    "Assists": 3,
+    "team": "Arsenal",
+    "position": "Striker",
+    "image": "GabrielJesus.png"
+  }
+]

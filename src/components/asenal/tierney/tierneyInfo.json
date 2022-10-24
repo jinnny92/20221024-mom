@@ -1,0 +1,14 @@
+[
+  {
+    "identifier": 4,
+    "first_name": "Kieran",
+    "last_name": "Tierney",
+    "Nationality": "Scotland",
+    "Appearances": 7,
+    "Clean sheets": 1,
+    "Goals": 0,
+    "team": "Arsenal",
+    "position": "Defender",
+    "image": "KieranTierney.png"
+  }
+]

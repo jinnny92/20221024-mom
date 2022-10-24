@@ -1,0 +1,390 @@
+[
+  {
+    "Arsenal": [
+      {
+        "identifier": 1,
+        "team_name_kr": "아스널 FC",
+        "team_name_en": "Arsenal FC",
+        "team_name": "ArsenalFootballClub",
+        "nickname": "거너스 (TheGunners)",
+        "establish": "1886년10월",
+        "league": "프리미어 리그 (PremierLeague)",
+        "hometown": "런던 이슬링턴 구 (London-Islington)",
+        "homestadium": "에미레이트 스타디움 (EmiratesStadium)",
+        "rival": "토트넘 홋스퍼 FC - 북런던 더비 (TottenhamHotspurFC-NorthLondonDerby)",
+        "rival2": "첼시 FC - 런던 더비 (ChelseaFC-LondonDerby)",
+        "coach": " 미켈 아르테타 (MikelArteta)",
+        "captin": " 마르틴 외데고르 (MartinØdegaard)",
+        "subCaptin": "그라니트 자카 (GranitXhaka)",
+        "ArsenalLogoURL": "../assets/Logo/ars1.png",
+        "isClick": false
+      }
+    ]
+  },
+  {
+    "Chelsea": [
+      {
+        "identifier": 2,
+        "team_name": "ChelseaFootballClub",
+        "nickname": "TheBlues",
+        "establish": "1905년3월10일",
+        "league": "PremierLeague",
+        "hometown": "London-Hammersmith and Fulham",
+        "homestadium": "Stamford Bridge",
+        "rival": "ArsenalFC,TottenhamHotspurFC-North West London Derby",
+        "rival2": "WestHamUnited-LondonDerby",
+        "coach": "GrahamPotter",
+        "captin": "CésarAzpilicueta",
+        "subCaptin": "Jorginho"
+      }
+    ]
+  },
+  {
+    "AstonVilla": [
+      {
+        "identifier": 3,
+        "team_name": "AstonVilla",
+        "nickname": "TheVillans",
+        "establish": "1874년 11월 21일",
+        "league": "프리미어 리그 (Premier League)",
+        "hometown": "웨스트 미들랜즈 웨스트 미들랜즈 주 버밍엄 (Birmingham)",
+        "homestadium": "빌라 파크 (Villa Park)",
+        "rival": "웨스트 브롬위치 알비온 FC,울버햄튼 원더러스 FC-WestMidlandsDerby",
+        "rival2": "버밍엄 시티 FC - 세컨드 시티 더비",
+        "coach": "공석",
+        "captin": "존 맥긴 (John Mcginn)",
+        "subCaptin": "에밀리아노 마르티네스 (Emiliano Martinez)"
+      }
+    ]
+  },
+  {
+    "Bournemouth": [
+      {
+        "identifier": 4,
+        "team_name": "Association Football Club Bournemouth",
+        "nickname": "The Cherries",
+        "establish": "1899년",
+        "league": "프리미어 리그 (Premier League)",
+        "hometown": "사우스웨스트 잉글랜드 도싯 주 본머스 (Bournemouth)",
+        "homestadium": "바이탈리티 스타디움 (Vitality Stadium)",
+        "rival": "WestBromwichAlbionFC,WolverhamptonWanderersFC-WestMidlandsDerby",
+        "rival2": "WestHamUnited-LondonDerby",
+        "coach": "게리 오닐 (Gary O'Neil)",
+        "captin": "로이드 켈리 (Lloyd Kelly)",
+        "subCaptin": ""
+      }
+    ]
+  },
+  {
+    "Brentford": [
+      {
+        "identifier": 5,
+        "team_name": "Brentford F.C.",
+        "nickname": "The Bees",
+        "establish": "1889년 10월 10일",
+        "league": "프리미어 리그 (Premier League)",
+        "hometown": "런던 하운슬로 구 (Hounslow) 브렌트포드 (Brentford)",
+        "homestadium": "지테크 커뮤니티 스타디움 (Gtech Community Stadium)",
+        "rival": "첼시 FC, 퀸즈 파크 레인저스 FC, 풀럼 FC - 서런던 더비",
+        "rival2": "WestHamUnited-LondonDerby",
+        "coach": "토마스 프랑크 (Thomas Frank)",
+        "captin": "폰투스 얀손 (Pontus Jansson)",
+        "subCaptin": "크리스티안 뇌르고르 (Christian Nørgaard)"
+      }
+    ]
+  },
+  {
+    "Brighton": [
+      {
+        "identifier": 6,
+        "team_name": "Brighton & Hove Albion Football Club",
+        "nickname": "The Seagulls (갈매기)",
+        "nickname2": "Albion (알비온)",
+        "establish": "1901년 6월 24일 ",
+        "league": "프리미어 리그 (Premier League)",
+        "hometown": "사우스이스트 잉글랜드 이스트서식스 주 브라이튼 앤 호브 (Brighton and Hove)",
+        "homestadium": "아메리칸 익스프레스 커뮤니티 스타디움 (American Express Community Stadium)",
+        "rival": "크리스탈 팰리스 FC - M23 더비",
+        "rival2": "",
+        "coach": "로베르토 데 제르비 (Roberto De Zerbi)",
+        "captin": "루이스 덩크 (Lewis Dunk)",
+        "subCaptin": "아담 랄라나 (Adam Lallana)"
+      }
+    ]
+  },
+  {
+    "Chelsea": [
+      {
+        "identifier": 7,
+        "team_name": "Chelsea Football Club",
+        "nickname": "블루스 (The Blues)",
+        "establish": "1905년 3월 10일",
+        "league": "프리미어 리그 (Premier League)",
+        "hometown": "런던 해머스미스 앤 풀럼 구 (Hammersmith and Fulham)",
+        "homestadium": "스탬퍼드 브리지 (Stamford Bridge)",
+        "rival": "풀럼 FC, 퀸즈 파크 레인저스 FC, 브렌트포드 FC - 서런던 더비",
+        "rival2": "웨스트햄 유나이티드 FC - 런던 더비",
+        "rival3": "아스날 FC, 토트넘 홋스퍼 FC - 서북런던 더비",
+        "coach": "그레이엄 포터 (Graham Potter)",
+        "captin": "세사르 아스필리쿠에타 (César Azpilicueta)",
+        "subCaptin": "조르지뉴 (Jorginho)"
+      }
+    ]
+  },
+  {
+    "Everton": [
+      {
+        "identifier": 8,
+        "team_name": "Everton Football Club",
+        "nickname": "토피스 (The Toffees)",
+        "establish": "1878년",
+        "league": "프리미어 리그 (Premier League)",
+        "hometown": "노스웨스트 잉글랜드 머지사이드 주 리버풀 (Liverpool)",
+        "homestadium": "구디슨 파크 (Goodison Park)",
+        "rival": "리버풀 FC - 머지사이드 더비",
+        "rival2": "",
+        "coach": "프랭크 램파드 (Frank Lampard)",
+        "captin": "셰머스 콜먼 (Séamus Coleman)",
+        "subCaptin": "조던 픽포드 (Jordan Pickford)"
+      }
+    ]
+  },
+  {
+    "Forest": [
+      {
+        "identifier": 9,
+        "team_name": "Nottingham Forest Football Club",
+        "nickname": "Forest",
+        "establish": "1865년",
+        "league": "프리미어 리그 (Premier League)",
+        "hometown": "이스트 미들랜즈 노팅엄셔 주 웨스트 브리지퍼드 (West Bridgford)",
+        "homestadium": "시티 그라운드 (The City Ground)",
+        "rival": "더비 카운티 FC, 레스터 시티 FC  - 이스트 미들랜즈 더비",
+        "rival2": "노츠 카운티 FC - 노팅엄 더비",
+        "coach": "스티브 쿠퍼 (Steve Cooper)",
+        "captin": "조 워럴 (Joe Worrall)",
+        "subCaptin": "라이언 예이츠 (Ryan Yates)"
+      }
+    ]
+  },
+  {
+    "Full": [
+      {
+        "identifier": 10,
+        "team_name": "Fulham Football Club",
+        "nickname": "코티저스 (The Cottagers)",
+        "establish": "1879년",
+        "league": "프리미어 리그 (Premier League)",
+        "hometown": "잉글랜드 런던 해머스미스 앤 풀럼 구 (Hammersmith and Fulham)",
+        "homestadium": "크레이븐 코티지 (Craven Cottage)",
+        "rival": "첼시 FC, 퀸즈 파크 레인저스 FC, 브렌트포드 FC - 서런던 더비",
+        "rival2": "",
+        "coach": "마르코 실바 (Marco Silva)",
+        "captin": "톰 케어니 (Tom Cairney)",
+        "subCaptin": "팀 림 (Tim Ream)"
+      }
+    ]
+  },
+  {
+    "Lees": [
+      {
+        "identifier": 11,
+        "team_name": "Leeds United Football Club",
+        "nickname": "공작새 (The Peacocks)",
+        "establish": "1919년 10월 17일",
+        "league": "프리미어 리그 (Premier League)",
+        "hometown": "요크셔험버 웨스트요크셔 주 리즈 (Leeds)",
+        "homestadium": "엘런드 로드 (Elland Road)",
+        "rival": "맨체스터 유나이티드 FC - 로즈 라이벌리 (페나인 더비)",
+        "rival2": "허더스필드 타운 AFC, 브래드포드 시티 AFC - 웨스트 요크셔 더비",
+        "rival3": "밀월 FC - 노스-사우스 디바이드 라이벌리",
+        "rival4": "첼시 FC - 리즈-첼시 라이벌리",
+        "coach": "제시 마시 (Jesse Marsch)",
+        "captin": "리암 쿠퍼 (Liam Cooper)",
+        "subCaptin": "루크 아일링 (Luke Ayling)"
+      }
+    ]
+  },
+  {
+    "Leic": [
+      {
+        "identifier": 12,
+        "team_name": "Leicester City Football Club",
+        "nickname": "The Foxes (여우)",
+        "establish": "1884년",
+        "league": "프리미어 리그 (Premier League)",
+        "hometown": "이스트 미들랜즈 레스터셔 주 레스터 (Leicester)",
+        "homestadium": "킹 파워 스타디움 (King Power Stadium)",
+        "rival": "노팅엄 포레스트 FC, 더비 카운티 FC - 이스트 미들랜즈 더비",
+        "rival2": "코번트리 시티 FC - M69 더비",
+        "coach": "브렌던 로저스 (Brendan Rodgers)",
+        "captin": "조니 에반스 (Jonny Evans)",
+        "subCaptin": "마크 올브라이턴 (Marc Albrighton)"
+      }
+    ]
+  },
+  {
+    "Liverpool": [
+      {
+        "identifier": 13,
+        "team_name": "Liverpool Football Club",
+        "nickname": "레즈 (The Reds)",
+        "establish": "1892년 6월 3일",
+        "league": "프리미어 리그 (Premier League)",
+        "hometown": "잉글랜드 머지사이드 주 리버풀 (Liverpool)",
+        "homestadium": "안필드 (Anfield)",
+        "rival": "에버튼 FC - 머지사이드 더비",
+        "rival2": "맨체스터 유나이티드 FC - 노스웨스트 더비",
+        "coach": "위르겐 클롭 (Jürgen Klopp)",
+        "captin": "조던 헨더슨 (Jordan Henderson)",
+        "subCaptin": "제임스 밀너 (James Milner)"
+      }
+    ]
+  },
+  {
+    "Mancity": [
+      {
+        "identifier": 14,
+        "team_name": "Manchester City Football Club",
+        "nickname": "시티즌 (The Citizens)",
+        "establish": "1894년 4월 16일",
+        "league": "프리미어 리그 (Premier League)",
+        "hometown": "노스웨스트 잉글랜드 그레이터맨체스터 주 맨체스터 (Manchester)",
+        "homestadium": "에티하드 스타디움 (Etihad Stadium)",
+        "rival": "맨체스터 유나이티드 FC - 맨체스터 더비",
+        "rival2": "리버풀 FC",
+        "coach": "펩 과르디올라 (Josep Guardiola)",
+        "captin": "일카이 귄도안 (İlkay Gündoğan)",
+        "subCaptin": "케빈 더 브라위너 (Kevin De Bruyne)"
+      }
+    ]
+  },
+  {
+    "Manu": [
+      {
+        "identifier": 15,
+        "team_name": "Manchester United Football Club",
+        "nickname": "레드 데블스 (The Red Devils)",
+        "establish": "1878년",
+        "league": "프리미어 리그 (Premier League)",
+        "hometown": "노스웨스트 잉글랜드 그레이터 맨체스터 주 트래포드 (Trafford)",
+        "homestadium": "올드 트래퍼드 (Old Trafford)",
+        "rival": "리버풀 FC - 노스웨스트 더비",
+        "rival2": "리즈 유나이티드 FC - 페나인 더비 (로즈 라이벌리)",
+        "rival3": "맨체스터 시티 FC - 맨체스터 더비",
+        "coach": "에릭 텐하흐 (Erik ten Hag)",
+        "captin": "해리 매과이어 (Harry Maguire)",
+        "subCaptin": "브루노 페르난데스 (Bruno Fernandes)"
+      }
+    ]
+  },
+  {
+    "Newcastle": [
+      {
+        "identifier": 16,
+        "team_name": "Newcastle United Football Club",
+        "nickname": "The Magpies (맥파이스)",
+        "establish": "1892년 12월 9일",
+        "league": "프리미어 리그 (Premier League)",
+        "hometown": "노스이스트 잉글랜드 타인 위어 주 뉴캐슬어폰타인 (Newcastle upon Tyne)",
+        "homestadium": "세인트 제임스 파크 (St James' Park)",
+        "rival": "선덜랜드 AFC - 타인위어 더비",
+        "rival2": "미들즈브러 FC - 타인티스 더비",
+        "coach": "에디 하우 (Eddie Howe)",
+        "captin": "자말 라셀스 (Jamaal Lascelles)",
+        "subCaptin": "존조 셸비 (Jonjo Shelvey)"
+      }
+    ]
+  },
+  {
+    "Crystal": [
+      {
+        "identifier": 17,
+        "team_name": "Crystal Palace Football Club",
+        "nickname": "이글스 (The Eagles)",
+        "establish": "1905년 9월 10일",
+        "league": "프리미어 리그 (Premier League)",
+        "hometown": "런던 크로이던 구 (Croydon) 사우스 노우드 (South Norwood)",
+        "homestadium": "셀허스트 파크 (Selhurst Park)",
+        "rival": "브라이튼 앤 호브 알비온 FC - M23 더비",
+        "rival2": "밀월 FC, 찰턴 애슬레틱 FC - 남런던 더비",
+        "coach": "파트리크 비에라 (Patrick Vieira)",
+        "captin": "루카 밀리보예비치 (Luka Milivojević)",
+        "subCaptin": "제임스 맥아더 (James McArthur)"
+      }
+    ]
+  },
+  {
+    "South": [
+      {
+        "identifier": 18,
+        "team_name": "Southampton Football Club",
+        "nickname": "성자 (The Saints)",
+        "establish": "1885년 11월 21일",
+        "league": "프리미어 리그 (Premier League)",
+        "hometown": "사우스이스트 잉글랜드 햄프셔 주 사우샘프턴 (Southampton)",
+        "homestadium": "세인트 메리즈 스타디움 (St. Mary's Stadium)",
+        "rival": "포츠머스 FC - 사우스 코스트 더비",
+        "rival2": "",
+        "coach": "랄프 하젠휘틀 (Ralph Hasenhüttl)",
+        "captin": "제임스 워드프라우스 (James Ward-Prowse)",
+        "subCaptin": "공석"
+      }
+    ]
+  },
+  {
+    "Tott": [
+      {
+        "identifier": 19,
+        "team_name": "Tottenham Hotspur Football Club",
+        "nickname": "스퍼스 (Spurs)",
+        "establish": "1882년 9월 5일",
+        "league": "프리미어 리그 (Premier League)",
+        "hometown": "잉글랜드 런던 해링게이 구 (Haringey) 토트넘 (Tottenham)",
+        "homestadium": "토트넘 홋스퍼 스타디움",
+        "rival": "아스날 FC - 북런던 더비",
+        "rival2": "첼시 FC - 서북런던 더비",
+        "rival3": "웨스트햄 유나이티드 FC - 런던 더비",
+        "coach": "안토니오 콘테 (Antonio Conte)",
+        "captin": "위고 요리스 (Hugo Lloris)",
+        "subCaptin": "해리 케인 (Harry Kane)"
+      }
+    ]
+  },
+  {
+    "West": [
+      {
+        "identifier": 20,
+        "team_name": "West Ham United Football Club",
+        "nickname": "해머스 (The Hammers)",
+        "establish": "1895년 6월 29일",
+        "league": "프리미어 리그 (Premier League)",
+        "hometown": "런던 (London) 뉴엄 구 (Newham)",
+        "homestadium": "런던 스타디움 (London Stadium)",
+        "rival": "밀월 FC - 동런던 더비",
+        "rival2": "토트넘 홋스퍼 FC, 첼시 FC - 런던 더비",
+        "coach": "데이비드 모예스 (David Moyes)",
+        "captin": "데클란 라이스 (Declan Rice)",
+        "subCaptin": "애런 크레스웰 (Aaron Cresswell)"
+      }
+    ]
+  },
+  {
+    "Wolves": [
+      {
+        "identifier": 21,
+        "team_name": "Wolverhampton Wanderers Football Club",
+        "nickname": "늑대 (Wolves)",
+        "establish": "1877년",
+        "league": "프리미어 리그 (Premier League)",
+        "hometown": "웨스트 미들랜즈 웨스트 미들랜즈 주 울버햄튼 (Wolverhampton)",
+        "homestadium": "몰리뉴 스타디움 (Molineux Stadium)",
+        "rival": "웨스트 브롬위치 알비온 FC - 블랙 컨트리 더비",
+        "rival2": "아스톤 빌라 FC, 버밍엄 시티 FC - 웨스트 미들랜즈 더비",
+        "coach": "스티브 데이비스 (Steve Davis)",
+        "captin": "후벵 네베스 (Ruben Neves)",
+        "subCaptin": "막시밀리안 킬먼 (Maximilian Kilman)"
+      }
+    ]
+  }
+]

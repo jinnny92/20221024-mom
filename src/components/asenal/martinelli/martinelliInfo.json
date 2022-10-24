@@ -1,0 +1,14 @@
+[
+  {
+    "identifier": 26,
+    "first_name": "Gabriel",
+    "last_name": "Martinelli",
+    "Nationality": "Brazil",
+    "Appearances": 8,
+    "Goals": 3,
+    "Assists": 1,
+    "team": "Arsenal",
+    "position": "Striker",
+    "image": "GabrielMartinelli.png"
+  }
+]
